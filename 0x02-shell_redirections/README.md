@@ -1,4 +1,4 @@
-#0x02. Shell, I/O Redirections and filters
+# 0x02. Shell, I/O Redirections and filters
 ## Shell, I/O Redirection
 ### **head**
 > Outputs the first few lines of its input. Useful for getting the header of a file.
