@@ -1,5 +1,5 @@
 # 0x01. Shell, permission
-###**chmod**
+### **chmod**
 > 'chmod' means modify file access rights
 ### **sudo** 
 > 'sudo' means temporarily become the superuser also 'su' means the same thing
